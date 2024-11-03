@@ -3,4 +3,4 @@ torch
 opencv-python
 Pillow
 numpy
-yolov5 # Optional, if using YOLOv5 with PyTorch
+yolov8n # Optional, if using YOLOv8n with PyTorch
