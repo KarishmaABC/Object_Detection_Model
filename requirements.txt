@@ -1,0 +1,6 @@
+streamlit
+torch
+opencv-python
+Pillow
+numpy
+yolov5 # Optional, if using YOLOv5 with PyTorch
